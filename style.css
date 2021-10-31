@@ -54,21 +54,21 @@ body {
   }
   
   .present {
-    background-color: #ff6961;
-    color: white;
+    background-color: #fbf04e;
+    color: rgb(12, 12, 12);
   }
   
   .future {
-    background-color: #77dd77;
+    background-color: #af1c1c;
     color: white;
   }
   
   .saveBtn {
     border-left: 1px solid black;
-    border-top-right-radius: 15px;
-    border-bottom-right-radius: 15px;
-    background-color: #06aed5;
-    color: white;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: #baf300;
+    color: rgb(163, 163, 163);
   }
   
   .saveBtn i:hover {
